@@ -1,8 +1,12 @@
 # listas
-listas de ip's iocs sites etc...
+L
+Li
+Lis
+List
+Lista
+Listas....
 
 
-Lista de Sites
+Links
 
-
-blockwebsite.txt --> Lista de endereços de sites que tenho bloqueado no meu pihole
+blockwebsite.txt --> My Blocked websites (pihole +adguard and....so.....onnnnn) 
