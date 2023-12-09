@@ -85,3 +85,9 @@ Lista de Números disponiveis por indicativo
 92
 93
 96
+
+
+Pasta [Numeros]
+
+
+numeros_de_0000_ate_9999.txt Lista de Números a iniciar em 0000 até 9999
