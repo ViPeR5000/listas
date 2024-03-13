@@ -41,3 +41,6 @@ autenticacao-gov.pt-veri.com
 autenticacao-gov.pt-aut.live
 autenticacao-gov.pt-ver.com
 autenticacao-gov.pt-sdc.live
+cdown883.oss-us-east-1.aliyuncs.com
+apendgo.com
+applebalanyou.com
