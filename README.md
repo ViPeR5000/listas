@@ -91,3 +91,10 @@ Pasta [Numeros]
 
 
 numeros_de_0000_ate_9999.txt Lista de Números a iniciar em 0000 até 9999
+
+
+Pasta [iocs] indicators of compromise 
+
+IPS v4
+ips v6
+dominos
