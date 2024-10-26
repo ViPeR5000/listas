@@ -1,0 +1,784 @@
+Lista de entidades MULTIBANCO-MB
+
+
+10061	NOS Comunicações, S.A.
+
+10081	OTLIS – Operadores de Transportes da Região de Lisboa, A.C.E.
+
+10083	TIP – Transportes Intermodais do Porto, A.C.E.
+
+10095	Direcção-Geral do Tesouro e Finanças
+
+10121	ACP – Automóvel Clube de Portugal 
+
+10126	Seguradoras Unidas S.A.
+
+10128	Fidelidade – Companhia de Seguros, S.A.
+
+10130	Eden Springs Portugal, S.A.
+
+10131	TAP – Transportes Aéreos Portugueses, S.A.
+
+10132	Liberty Seguros, S.A.
+
+10155	Loja do Condomínio
+
+10158	Vodafone Portugal – Comunicações Pessoais, S.A.
+
+10175	Seleções do Readers Digest, S.A.
+
+10196	FAGAR – Faro Gestão de Águas e Resíduos
+
+10208	Global Notícias – Publicações, S.A.
+
+10211	Câmara Municipal do Porto
+
+10212	Motor Press Lisboa – Edição e Distribuição S.A.
+
+10227	Caravela – Companhia de Seguros, S.A.
+
+10231	INATEL
+
+10241	HiPay CompraFácil
+
+10244	Victoria Seguros, S.A.
+
+10261	OK Teleseguros
+
+10277	NOS Comunicações, S.A.
+
+10294	Ageas Portugal – Companhia de Seguros, S.A.
+
+10297	Vodafone Portugal – Comunicações Pessoais, S.A.
+
+10311	Ordem Dos Engenheiros
+
+10314	IPVC – Instituto Politécnico de Viana do Castelo
+
+10335	Ordem dos Enfermeiros
+
+10351	NOS Madeira Comunicações, S.A.
+
+10363	FNAC Portugal, Ldª
+
+10377	MAPFRE Seguros Gerais, S.A.
+
+10404	COFAC – Cooperativa de Formação e Animação Cultural, C.R.L.
+
+10411	Certiel – Associação Certificadora de Instalações Elétricas, S.A.
+
+10420	Fidelidade – Companhia de Seguros, S.A.
+
+10422	INCM - Imprensa Nacional Casa da Moeda
+
+10451	ISEP  – Instituto Superior de Engenharia do Porto
+
+10455	Liberty Seguros, S.A.
+
+10482	Sportinveste Multimédia, S.A.
+
+10511	Porto Editora, S.A.
+
+10550	Otis Elevadores, Ldª
+
+10559	Ifthenpay, Ldª
+
+10565	Intrum Justitia Portugal
+
+10575	Viagens Abreu, S.A. 
+
+10611	Easypay – Instituição de Pagamento, Ldª
+
+10612	Sweets 4 U – Comercialização e Representação de Produtos Alimentares, Ldª 
+
+10641	Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I.P. 
+
+10644	Cloudware, S.A.
+
+10652	Sage Portugal – Software, S.A. 
+
+10828	Nestlé Portugal, S.A.
+
+10941	IGCP – Agência de Gestão e da Tesousaria e da Dívida Pública
+
+10950	IVV – Instituto da Vinha e do Vinho 
+
+10954	Altice Portugal, S.A.
+
+10958	ISEP  – Instituto Superior de Engenharia do Porto
+
+10982	Armazéns Marques Soares
+
+10991	Staples Portugal – Equipamento de Escritório, S.A.
+
+10996	ADENE – Agência para a Energia
+
+10997	Câmara Municipal do Porto
+
+11012	IRN – Instituto dos Registos e Notariado, I.P.
+
+11013	AMA – Agência para a Modernização Administrativa, I.P.
+
+11017	Via Direta - Companhia de Seguros S.A.
+
+11024	Lusopay – Instituição de Pagamento, Ldª
+
+11034	Fidelidade Companhia de Seguros, S.A.
+
+11056	N Seguros, S.A.
+
+11062	ACP – Mediação de Seguros, S.A.
+
+11063	Seguradoras Unidas, S.A.
+
+11089	CGA – Caixa Geral de Aposentações
+
+11100	Clínica CUF Cascais, S.A.
+
+11163	Villas Boas ACP – Archer Camacho
+
+11175	Instituto Médico Scalabitano
+
+11202	Ifthenpay, Ldª
+
+11206	Agencia Para Modernização Administrativa
+
+11216	Município de Estremoz
+
+11241	La Redoute
+
+11249	HiPay CompraFácil
+
+11261	Instituto dos Registos e Notariado
+
+11283	EDP Comercial – Comercialização de Energia, S.A.
+
+11286	Hospital da Luz, S.A.
+
+11299	AT – Autoridade Tributária
+
+11302	Serviço de atribuição de referências
+
+11314	Onsalesit, S.A.
+
+11335	Athenas – Mediação de Seguros Ldª
+
+11341	S.A.M.S. Quadros
+
+11360	Hospital CUF Porto
+
+11364	Endesa Energia, S.A.
+
+11369	Empark Portugal – Empreendimentos e Exploração de Parqueamentos, S.A.
+
+11390	2B Style – Unipessoal, Ldª
+
+11409	Courlux International, S.A.
+
+11412	FixeAds – Serviços de Internet, S.A.
+
+11413	TAP – Transportes Aéreos Portugueses, S.A.
+
+11419	Opensoft – Soluções Informáticas, S.A.
+
+11421	Câmara Municipal de Lisboa 
+
+11440	ISEP  – Instituto Superior de Engenharia do Porto
+
+11454	Direção Geral Administração Justiça
+
+11456	Gold Energy – Comercializadora de Energia, S.A.
+
+11469	Universidade do Porto Reitoria
+
+11470	Vodafone Portugal – Comunicações Pessoais, S.A.
+
+11471	TAP – Transportes Aéreos Portugueses, S.A. 
+
+11472	Melior Seguros Consultores C. Seguros, S.A.
+
+11473	Ifthenpay, Ldª
+
+11496	Universidade do Porto Reitoria
+
+11583	Gas Natural Servicios SDG, S.A. – Sucursal em Portugal
+
+11589	Worten – Equipamentos para o Lar, S.A. 
+
+11604	Ifthenpay, Ldª
+
+11606	Cif – Agência de Viagens e Turismo, S.A.
+
+11609	Instituto Superior de Ciências Sociais e Politicas
+
+11641	Bosch Termotecnologia, SA
+
+11644	Iberdrola Portugal – Eletricidade e Gás, S.A.
+
+11663	Município de Santo Tirso
+
+11669	Multicert – Serviços de Certificação Electrónica S.A.
+
+11670	Santa Casa da Misericórdia do Porto
+
+11672	Noticias Direct Distribuição ao Domicilio Ldª
+
+11683	Easypay – Instituição de Pagamento, Ldª
+
+11686	Ifthenpay, Ldª
+
+11687	Ifthenpay, Ldª
+
+11693	Centro Hospitalar e Universitário de Coimbra, E.P.E.
+
+11706	Universidade de Lisboa
+
+11708	MHR
+
+11711	IRN – Instituto dos Registos e Notariado, I.P.
+
+11712	IRN – Instituto dos Registos e Notariado, I.P.
+
+11713	IRN – Instituto dos Registos e Notariado, I.P.
+
+11714	IRN – Instituto dos Registos e Notariado, I.P.
+
+11717	IEFP – Instituto de Emprego e Formação Profissional
+
+11726	Vertbaudet Portugal – Vendas à Distância, Ldª
+
+11733	AlmourolTec / PTISP
+
+11737	Ticket Restaurant
+
+11749	SportZone
+
+11758	SATA Internacional
+
+11767	CVRVV – Comissão de Viticultura da Região dos Vinhos Verdes
+
+11768	Município de Viana do Castelo
+
+11780	Claranet Soho, S.A. / DMNS – Domínios, S.A.
+
+11781	Lusíadas, S.A.
+
+11782	Easypay – Instituição de Pagamento, Ldª
+
+11795	IRN – Instituto dos Registos e Notariado, I.P.
+
+11802	Ifthenpay, Ldª
+
+11811	Centro Social da Legião da Boa Vontade
+
+11816	Rubis Energia Portugal, S.A.
+
+11843	Easypay – Instituição de Pagamento, Ldª
+
+11846	Iberdrola Energia
+
+11854	PPRO Financial Ltd. – Sucursal em Portugal
+
+11873	Ifthenpay, Ldª
+
+11877	euPago  – Instituição de Pagamento, Ldª,
+
+11893	HPME – Hi-Media Porte Monnaie Électronique, S.A. – Sucursal em Portugal
+
+11896	IAVE – Instituto de Avaliação Educativa, I.P. 
+
+11911	Câmara Municipal de Ovar
+
+11916	Via Verde Portugal, S.G.E. Cobranças, S.A.
+
+11921	Vitória Seguros, S.A
+
+11925	Ifthenpay, Ldª
+
+11937	IRN – Instituto dos Registos e Notariado, I.P.
+
+11941	IRN – Instituto dos Registos e Notariado, I.P.
+
+11944	Via Verde Portugal – Gestão de Sistemas Eletrónicos de Cobrança, S.A.
+
+11950	Câmara Municipal de Lisboa
+
+11952	Câmara Municipal do Porto
+
+11967	Ifthenpay, Ldª
+
+11976	Município de Santa Maria da Feira
+
+11979	PayPayUE – Instituição de Pagamento, Unipessoal, Ldª
+
+11985	Galp Energia, S.A.
+
+11988	Ifthenpay, Ldª
+
+11989	Ifthenpay, Ldª
+
+11990	Ifthenpay, Ldª
+
+11999	Eporto – Estacionamentos Públicos do Porto, S.A.
+
+12009	Gold Energy – Comercializadora de Energia, S.A.
+
+12020	Easypay – Instituição de Pagamento, Ldª
+
+12029	HPME S.A.
+
+12057	Dalenys Payment
+
+12061	El Corte Inglés Grandes Armazéns, S.A.
+
+12101	HiPay CompraFácil
+
+12121	Endesa Energia, S.A.
+
+12132	Metro do Porto
+
+12133	Ifthenpay, Ldª
+
+12142	euPago  – Instituição de Pagamento, Ldª
+
+12182	Gestão e Obras do Porto, E.M.
+
+12218	IRN – Instituto dos Registos e Notariado, I.P.
+
+12222	EDP Distribuição
+
+12223	EDP Distribuição
+
+12230	EDP Distribuição
+
+12262	Ifthenpay, Ldª
+
+12272	SUMOL-COMPAL Marcas, S.A.
+
+12334	Resopre - Sociedade Revendedora de Aparelhos de Precisão, Ldª
+
+12352	Ifthenpay, Ldª
+
+12368	CTT Correios de Portugal, S.A.
+
+12375	Ifthenpay, Ldª
+
+12376	Ifthenpay, Ldª
+
+12385	Iberdrola Clientes Portugal – Unipessoal, Ldª
+
+12393	MDS - Corretor de Seguros, S.A.
+
+12474	Ifthenpay, Ldª
+
+12475	euPago  – Instituição de Pagamento, Ldª,
+
+20108	Wizink Bank, S.A. – Sucursal em Portugal
+
+20117	IMPIC – Instituto Construção Imobiliário, IP
+
+20130	Novo Banco, S.A.
+
+20145	Sporting Clube de Portugal, S.A.D.
+
+20152	Sporting Clube de Portugal, S.A.D.
+
+20160	Jogos Santa Casa
+
+20173	Liberty Seguros, S.A.
+
+20174	EDP Comercial – Comercialização de Energia, S.A.
+
+20175	Allianz Seguros
+
+20181	IGFSS – Instituto de Gestão Financeira da Segurança Social, I.P.
+
+20183	Generali – Companhia De Seguros, S.A.
+
+20185	BNP Paribas Personal Finance
+
+20204	Adb Aguas de Barcelos S A
+
+20223	Novo Banco S.A.
+
+20229	GE Consumer Finance – Instituição Financeira de Credito, S.A.
+
+20233	COFIDIS
+
+20234	PROSEGUR Companhia de Segurança Unipessoal, Ldª
+
+20237	Ordem dos Solicitadores e dos Agentes de Execução
+
+20341	Via Verde Portugal – Gestão de Sistemas Eletrónicos de Cobrança, S.A.
+
+20389	Uzo
+
+20394	BCP – Banco Comercial Português, S.A.
+
+20409	Federação Portuguesa de Futebol
+
+20414	Best – Banco Electrónico De Serviço Total, S.A.
+
+20420	MetLife Europe Limited – Sucursal em Portugal, S.A.
+
+20426	Porto Comercial – Sociedade de Comercialização, Licenciamento e Sponsorização, S.A.
+
+20442	ZON Multimédia, S.A.
+
+20484	CGD – Caixa Geral de Depósitos, S.A.
+
+20498	Banco Santander Consumer Portugal, S.A.
+
+20592	Optimus Home
+
+20601	BNP Paribas Personal Finance
+
+20603	Optimus Comunicações, S.A.
+
+20638	Optimus Kanguru – NOS Comunicações
+
+20641	Serviços Municipalizados de Loures
+
+20659	Zurich Seguros
+
+20669	Município de Oliveira de Azeméis
+
+20670	Banco Santander Totta, S.A.
+
+20678	Oney
+
+20691	Serviços Municipalizados de Água e Saneamento de Sintra
+
+20698	Ordem dos Arquitetos
+
+20715	BPI – Banco Português de Investimento, S.A.
+
+20718	Banco Santander Totta, S.A.
+
+20719	Associação DNS.PT
+
+20724	ACT – Autoridade para as Condições de Trabalho
+
+20741	Credibom – Sociedade Financeira para Aquisições a Crédito, S.A.
+
+20754	Banco Santander Totta, S.A.
+
+20755	Banco Santander Totta, S.A.
+
+20776	Ageas Portugal – Companhia de Seguros, S.A.
+
+20804	UNICRE – Instituição Financeira de Crédito, S.A.
+
+20811	EPAL –Empresa Portuguesa das Águas Livres, S.A.
+
+20812	EDP Serviço Universal, S.A.
+
+20813	BPI – Banco Português de Investimento, S.A.
+
+20815	Águas de Gaia, E.M.
+
+20821	IST – Instituto Superior Técnico
+
+20832	EEM – Empresa de Eletricidade da Madeira, S.A.
+
+20834	Novo Banco, S.A.
+
+20838	ISEG – Instituto Superior de Economia e Gestão
+
+20839	Cetelem
+
+20843	ANRS – Autoridade Nacional de Segurança Rodoviária
+
+20856	Gascan, S.A.
+
+20858	Banco Cofidis, S.A.
+
+20872	Dun Bradstreet Portugal, Ldª
+
+20890	Wizink Bank, S.A. – Sucursal em Portugal
+
+20891	Wizink Bank, S.A. – Sucursal em Portugal
+
+20912	ISPA – Instituto Superior de Psicologia Aplicada
+
+20918	Universidade Aveiro
+
+20931	Rede 4
+
+20932	OCC - Ordem dos Contabilistas Certificados
+
+20934	Açoreana Seguros
+
+20936	Nowo Communications, S.A.
+
+20950	Petrogal – Petróleos de Portugal, S.A.
+
+20961	Rentokil Initial Portugal – Serviços de Proteção Ambiental, Ldª
+
+20973	BNP Paribas Personal Finance
+
+20975	IMTT – Instituto da Mobilidade e dos Transportes Terrestres, I.P.
+
+20977	Casax – Consultadoria de Gestão, Ldª
+
+20987	Blueticket – Serviços de Bilhética, S.A.
+
+21000	Jet Cooler – Águas e Cafés, S.A.
+
+21029	APBP – Artistas Pintores com a Boca e o Pé, Ldª
+
+21034	Banco Primus, S.A.
+
+21036	TMN - Comunicações Móveis Nacionais, S.A.
+
+21053	Porto Editora, S.A.
+
+21054	DGEG – Direção-Geral de Energia e Geologia
+
+21056	IGFSS – Instituto de Gestão Financeira da Segurança Social, I.P.
+
+21058	Vodafone Direto
+
+21068	AudioGest – Associação para a Gestão e Distribuição de Direitos
+
+21086	IMTT – Instituto da Mobilidade e dos Transportes Terrestres, I.P.
+
+21096	Galp Energia, S.A.
+
+21098	Easypay – Instituição de Pagamento, Ldª
+
+21102	Montepio Crédito
+
+21111	Instituto Gestão Financeira da Segurança Social
+
+21132	Águas do Ribatejo
+
+21135	Seguradoras Unidas, S.A.
+
+21142	Condoarade – Gestão de Condomínios, Ldª
+
+21146	Segurihigiene – Medicina no Trabalho, S.A.
+
+21154	CTT Correios de Portugal, S.A.
+
+21159	Altice Portugal, S.A.
+
+21177	Galp Gás Natural, S.A.
+
+21179	CMPEA – Empresa de Águas do Município do Porto, E.M.
+
+21184	Cofre Previdencia Funcionarios Agentes
+
+21185	MDS - Corretor de Seguros, S.A.
+
+21188	EDP – Soluções Comerciais, S.A.
+
+21196	EDP – Soluções Comerciais, S.A.
+
+21199	APECA – Associação das Empresas de Contabilidade e Administração
+
+21212	Município de Paredes
+
+21217	Ascendi Norte Auto-Estradas do Norte, S.A.
+
+21218	Ascendi, S.A.
+
+21222	Indaqua Matosinhos - Gestão de Águas de Matosinhos, S.A.
+
+21225	Montellano, Ldª
+
+21234	Vialivre, S.A.
+
+21235	Otis Elevadores, Ldª
+
+21245	BMW Bank Gmbh – Sucursal Portuguesa
+
+21246	BMW Renting Portugal, Ldª
+
+21262	Intrum Justitia Portugal Ldª
+
+21269	Universidade do Porto
+
+21276	Santander Totta Seguros – Companhia de Seguros de Vida, S.A.
+
+21286	Montepio - Recuperação de Credito, ACE
+
+21297	Groupama Seguros, S.A.
+
+21309	Município de Terras De Bouro
+
+21312	Caixa Económica Montepio Geral – Caixa Económica Bancária, S.A.
+
+21318	Município de Coimbra
+
+21321	Primavera Software, S.A.
+
+21323	321 Credito Inst. Financeira D Credito, S.A.
+
+21325	Câmara Municipal de Gaia
+
+21341	Portvias – Portagem de Vias, S.A.
+
+21344	Município de Gondomar
+
+21345	Cascais Próxima – Gestão da Mobilidade, Espaços Urbanos e Energias, E.M., S.A.
+
+21347	Polícia Municipal de Lisboa
+
+21349	Servdebt – Capital Asset Management, S.A.
+
+21353	VIALIVRE, S.A.
+
+21365	Servbedt Capital Asset Management Ldª
+
+21374	BNP Paribas Personal Finance
+
+21375	BCP – Banco Comercial Português, S.A.
+
+21383	Wurth Portugal – Técnica de Montagem, Ldª
+
+21402	Volkswagen Bank GmbH - Sucursal Portugal
+
+21410	Servdebt – Capital Asset Management, S.A.
+
+21417	Ascendi, S.A.
+
+21423	HPME S.A. – HI-Media Porte Monnaie Électronique (HPME) S.A.
+
+21426	PT Pay, S.A.
+
+21448	FCT -  Fundos de Compensação do Trabalho
+
+21449	Município de Lisboa
+
+21467	Liberty Seguros, S.A.
+
+21486	PORTVIAS – Portagem de Vias, S.A.
+
+21487	Águas de Valongo, S.A.
+
+21489	BCP – Banco Comercial Português, S.A.
+
+21495	Serviços Partilhados Ministério da Saúde (SPMS)
+
+21496	CMPEA – Empresa de Águas do Município do Porto, E.M.
+
+21516	Exército Português
+
+21523	Gestifatura
+
+21524	Águas do Norte, S.A.
+
+21535	Lisgarante – Sociedade de Garantia Mútua, S.A.
+
+21540	Aegon Santander Portugal Vida – Companhia de Seguros de Vida, S.A.
+
+21546	UCI – Unión de Créditos Inmobiliarios, S.A. – Sucursal em Portugal
+
+21557	CTT Correios de Portugal, S.A.
+
+21563	PT PAY S.A.
+
+21564	Altice PAY S.A.
+
+21565	PT PAY S.A.
+
+21572	Victoria Seguros, S.A.
+
+21575	Serviços Municipalizados das Caldas da Rainha
+
+21577	Lease Plan Portugal – Com. Aluguer de Automóveis e Equipamentos, Unipessoal, Ldª
+
+21579	NOS Comunicações, S.A.
+
+21602	CTT Correios de Portugal, S.A.
+
+21604	euPago  – Instituição de Pagamento, Ldª
+
+21605	Santa Casa da Misericórdia da Azambuja
+
+21606	Ordem dos Enfermeiros
+
+21607	CTT Correios de Portugal, S.A.
+
+21615	Logicomer – Gestão e Recuperação de Créditos, S.A.
+
+21619	Serviços Municipalizados de Leiria
+
+21622	Águas de Coimbra
+
+21625	SMEAS – Serviços Municipalizados de Eletricidade, Água e Saneamento da Maia
+
+21627	Câmara Municipal de Caminha
+
+21639	Páginas Amarelas
+
+21643	HEFESTO STC, S.A.
+
+21651	Águas de Gaia, E.M.
+
+21653	SAGASTA S.A.
+
+21654	Câmara Municipal do Seixal
+
+21662	Ifthenpay, Ldª
+
+21682	Municipio de Oeiras
+
+21721	Ifthenpay, Ldª
+
+21724	Sandalgreen Assets, S.A.
+
+21726	GALP Power, S.A.
+
+21738	SMAS Peniche
+
+21799	E-Redes Distribuição de Eletricidade, S.A.
+
+21800	Mediamedis BV
+
+21818	SU Eletricidade S.A.
+
+21898	IRN – Instituto dos Registos e Notariado, I.P.
+
+21921	euPago  – Instituição de Pagamento, Ldª,
+
+21942	Universo, IME, S.A.
+
+21964	euPago  – Instituição de Pagamento, Ldª
+
+23000	Bet Entertainment Technologies Limited – Sucursal Em Portugal 
+
+23002	Circuland S.A.
+
+23013	EDP
+
+23037	Transportes Aéreos Portugueses
+
+23096	BCM – Bricolage, S.A. 
+
+23118	OCC - Ordem dos Contabilistas Certificados
+
+23119	OCC - Ordem dos Contabilistas Certificados
+
+23120	OCC - Ordem dos Contabilistas Certificados
+
+23239	Worten – Equipamentos para o Lar, S.A. 
+
+23241	AudioGest – Associação para a Gestão e Distribuição de Direitos
+
+23449	Quirónprevención, Segurança e Saúde no Trabalho, S.A.
+
+23565	E-Redes Distribuição de Eletricidade, S.A.
+
+23907	SU Eletricidade S.A.
+
+24397	Câmara Municipal do Porto
+
+24564	Águas da Figueira S.A.
+
+26053	BCM – Bricolage, S.A. 
+
+40160	Porto Editora, S.A. 
+
+46513	Sagseg - Corretora de Seguros, S.A.
